@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JessicaUX1
-- 👀 I’m a UX design researcher
-- 🌱 I’m currently learning more about mobile UX and software UI
+- 👀 I’m a UX designer
+- 🌱 I’m currently learning more about UX and software UI
 - 💞️ I’m looking to collaborate on something beginner level
 - 📫 How to reach me here
 
