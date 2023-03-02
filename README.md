@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JessicaUX1
+- 👋 Hi, I’m @JessicaUXart
 - 👀 I’m a UX designer
 - 🌱 I’m currently learning more about UX and software UI
 - 💞️ I’m looking to collaborate on something beginner level
